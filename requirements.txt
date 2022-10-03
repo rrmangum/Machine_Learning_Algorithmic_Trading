@@ -1,0 +1,5 @@
+pandas
+pathlib
+tensorflow
+keras
+sklearn
